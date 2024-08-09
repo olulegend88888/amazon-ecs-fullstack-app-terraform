@@ -1,6 +1,6 @@
 # Amazon ECS Demo with fullstack app / DevOps practices / Terraform sample
 
-## Table of content
+## Table of contents
 
    * [Solution overview](#solution-overview)
    * [General information](#general-information)
